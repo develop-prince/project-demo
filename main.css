@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+min-height: 100vh;
+background-color: black;
+color: #fff;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 10px 0px;
+    border: 1px solid cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color:green;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#blue{
+    background-color: blue;
+}
